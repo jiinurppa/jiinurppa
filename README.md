@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jiinurppa
+- 👋 Hi, I’m jiinurppa
 
 <!---
 jiinurppa/jiinurppa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
